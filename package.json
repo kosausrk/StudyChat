@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
+    "convex": "^1.15.0",
+    "dropbox": "^10.34.0",
+    "next": "14.2.7",
+    "openai": "^4.57.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.7"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "eslint": "^8",
